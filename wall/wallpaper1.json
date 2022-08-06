@@ -1,0 +1,321 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_native_ads_Admob_or_applovin":"",
+      "main_ads_rewards":"",
+      "backup_native_ads_Admob_or_applovin":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "survey_api_key":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_category":""
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Ludo King",
+      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+    },
+    {
+      "id":2,
+      "title":"Homescapes",
+      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+    },
+    {
+      "id":3,
+      "title":"Minecraft",
+      "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Nature",
+      "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
+
+    },
+    {
+      "id": 2,
+      "name_category": "Animal",
+      "image": "http://www.123mobilewallpapers.com/wp-content/uploads/2015/09/black_cat_cute_wallpaper.jpg"
+
+    },
+    {
+      "id": 3,
+      "name_category": "Cat",
+      "image": "https://i.pinimg.com/originals/84/88/13/848813d216ed98a81544c7515a046bc9.jpg"
+
+    }
+  ],
+
+  "Data":
+  [
+    {
+      "id":1,
+      "name_category": "Nature",
+      "title":"Waterfall",
+      "image":"https://i.pinimg.com/564x/a7/43/2d/a7432d11b2a629d1f05162a6c518744f.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Nature",
+      "title": "River",
+      "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
+    },
+    {
+      "id":3,
+      "name_category": "Nature",
+      "title":"Mountain",
+      "image":"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1cd5f075-42da-466b-b00a-8bb7ef66ad32/da9l0sw-5f1c1073-d232-4c10-8385-6176e1d71be2.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMWNkNWYwNzUtNDJkYS00NjZiLWIwMGEtOGJiN2VmNjZhZDMyXC9kYTlsMHN3LTVmMWMxMDczLWQyMzItNGMxMC04Mzg1LTYxNzZlMWQ3MWJlMi5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.QqjZ3T5HxGHJ8A3n3lC87BcVcLoXJUZZ1DOWf4MK4Ew"
+    },
+    {
+      "id":4,
+      "name_category": "Animal",
+      "title":"Cute Cat",
+      "image":"http://www.123mobilewallpapers.com/wp-content/uploads/2015/09/black_cat_cute_wallpaper.jpg"
+    }
+  ,
+    {
+      "id":5,
+      "name_category": "Animal",
+      "title":"Dog",
+      "image":"https://3diphonewallpaper.com/wp-content/uploads/2018/03/iPhone-Wallpaper-Cute-Puppies-Pictures.jpg"
+    },
+   {
+        "id": "762937993115214921",
+        "name_category": "Cat",
+        "title": "Cat",
+        "image": "https://i.pinimg.com/originals/5f/ce/52/5fce523f7d731da9858da39d0bf57023.jpg"
+    },
+    {
+        "id": "762937993115214916",
+        "name_category": "Cat",
+        "title": "Cat",
+        "image": "https://i.pinimg.com/originals/85/3d/ee/853dee3312bfbc045d7f606d696d2552.jpg"
+    },
+    {
+        "id": "762937993115214910",
+        "name_category": "Cat",
+        "title": "Cat",
+        "image": "https://i.pinimg.com/originals/36/e1/d9/36e1d9b4cadb97f6bbefadab67be72e6.jpg"
+    },
+    {
+        "id": "762937993115214909",
+        "name_category": "Cat",
+        "title": "Cat",
+        "image": "https://i.pinimg.com/originals/a9/79/77/a97977d3c8d61c207c89f7b8d580a393.jpg"
+    },
+    {
+        "id": "762937993115214905",
+        "name_category": "Cat",
+        "title": "Cat",
+        "image": "https://i.pinimg.com/originals/9f/72/86/9f72868b0f3ab1bd9b5191a2691f63da.jpg"
+    },
+    {
+        "id": "762937993114923673",
+        "name_category": "Cat",
+        "title": "Cat",
+        "image": "https://i.pinimg.com/originals/28/ca/4a/28ca4ab2216fcf2f48920b9cdb6a50a6.jpg"
+    },
+    {
+        "id": "762937993114826654",
+        "name_category": "Cat",
+        "title": "Cat",
+        "image": "https://i.pinimg.com/originals/3d/35/fc/3d35fcda23dcf7a61224bef30076f9c3.jpg"
+    },
+    {
+        "id": "762937993109178693",
+        "name_category": "Cat",
+        "title": "Cat",
+        "image": "https://i.pinimg.com/originals/c2/87/d7/c287d7ccf0010d9d0e00b96b030f4adb.jpg"
+    },
+    {
+        "id": "762937993109178692",
+        "name_category": "Cat",
+        "title": "Cat",
+        "image": "https://i.pinimg.com/originals/33/e0/ad/33e0ad62f4140e649c3d2e470cb658eb.jpg"
+    },
+    {
+        "id": "762937993109178691",
+        "name_category": "Cat",
+        "title": "Cat",
+        "image": "https://i.pinimg.com/originals/f3/b5/9a/f3b59a4a0cc213b452f97d4e6dd1fc22.jpg"
+    },
+    {
+        "id": "762937993109178689",
+        "name_category": "Cat",
+        "title": "Cat",
+        "image": "https://i.pinimg.com/originals/84/88/13/848813d216ed98a81544c7515a046bc9.jpg"
+    },
+    {
+        "id": "762937993109178686",
+        "name_category": "Cat",
+        "title": "Cat",
+        "image": "https://i.pinimg.com/originals/28/7a/4f/287a4fb443ef2931dfd784d6cf2039dd.jpg"
+    },
+    {
+        "id": "762937993109178684",
+        "name_category": "Cat",
+        "title": "Cat",
+        "image": "https://i.pinimg.com/originals/29/41/08/29410885845ea7d2ad8e314418e3eb38.jpg"
+    },
+    {
+        "id": "762937993109178678",
+        "name_category": "Cat",
+        "title": "Cat",
+        "image": "https://i.pinimg.com/originals/48/c1/db/48c1db2234dd0a6669b542eb49e0d7f0.jpg"
+    },
+    {
+        "id": "762937993109178675",
+        "name_category": "Cat",
+        "title": "Cat",
+        "image": "https://i.pinimg.com/originals/33/6f/08/336f08c97db512a995d82eb83898ae1b.jpg"
+    },
+    {
+        "id": "762937993109178674",
+        "name_category": "Cat",
+        "title": "Cat",
+        "image": "https://i.pinimg.com/originals/5b/11/fe/5b11fe6a0ef9a46ffaee8b03dad16d57.jpg"
+    },
+    {
+        "id": "762937993109178654",
+        "name_category": "Cat",
+        "title": "Cat",
+        "image": "https://i.pinimg.com/originals/10/f9/7f/10f97f5472889d63dca625362d3e3eb4.jpg"
+    },
+    {
+        "id": "762937993109178645",
+        "name_category": "Cat",
+        "title": "Cat",
+        "image": "https://i.pinimg.com/originals/67/c3/15/67c315def66b97ea2eb9c123ea16b65e.jpg"
+    },
+    {
+        "id": "762937993109178643",
+        "name_category": "Cat",
+        "title": "Cat",
+        "image": "https://i.pinimg.com/originals/bf/9f/96/bf9f96a38119884127515ce8748d3422.jpg"
+    },
+    {
+        "id": "762937993109178637",
+        "name_category": "Cat",
+        "title": "Cat",
+        "image": "https://i.pinimg.com/originals/d6/db/13/d6db130fea7d8897918b7117ba770d42.jpg"
+    },
+    {
+        "id": "762937993109178636",
+        "name_category": "Cat",
+        "title": "Cat",
+        "image": "https://i.pinimg.com/originals/93/5a/fa/935afa3019ad73954ecf432687874085.jpg"
+    },
+    {
+        "id": "762937993109178631",
+        "name_category": "Cat",
+        "title": "Cat",
+        "image": "https://i.pinimg.com/originals/d5/19/bd/d519bd6cdb3cae361f2e516757718607.jpg"
+    },
+    {
+        "id": "762937993109178629",
+        "name_category": "Cat",
+        "title": "Cat",
+        "image": "https://i.pinimg.com/originals/40/7a/77/407a77ca6e6cc13afa80ce834c9e4b43.jpg"
+    },
+    {
+        "id": "762937993109178628",
+        "name_category": "Cat",
+        "title": "Cat",
+        "image": "https://i.pinimg.com/originals/86/7c/a9/867ca9a0265e57b5ee9166add4526068.jpg"
+    },
+    {
+        "id": "762937993109178626",
+        "name_category": "Cat",
+        "title": "Cat",
+        "image": "https://i.pinimg.com/originals/3b/64/a3/3b64a3aa36b8a51c879d48a57cbc0786.jpg"
+    },
+    {
+        "id": "11259067809243460",
+        "name_category": "Cat",
+        "title": "Cat",
+        "image": "https://i.pinimg.com/originals/59/ec/f6/59ecf6b1014140e645931a27ee9e0869.jpg"
+    },
+    {
+        "id": "11259067809243460",
+        "name_category": "Cat",
+        "title": "Cat",
+        "image": "https://i.pinimg.com/originals/e4/0f/18/e40f18404c70802d80815fa9ef7c718c.jpg"
+    },
+    {
+        "id": "3448137205818359",
+        "name_category": "Cat",
+        "title": "Cat",
+        "image": "https://i.pinimg.com/originals/26/c7/35/26c7355fe46f62d84579857c6f8c4ea5.jpg"
+    },
+    {
+        "id": "1124140756962277165",
+        "name_category": "Cat",
+        "title": "Cat",
+        "image": "https://i.pinimg.com/originals/52/55/d4/5255d4f6909d42c093aecc5265f38b46.jpg"
+    },
+    {
+        "id": "17803361022551067",
+        "name_category": "Cat",
+        "title": "Cat",
+        "image": "https://i.pinimg.com/originals/14/7a/ec/147aec9f1bb6c4586b718a0ace9121ca.jpg"
+    },
+    {
+        "id": "17803361022551067",
+        "name_category": "Cat",
+        "title": "Cat",
+        "image": "https://i.pinimg.com/originals/88/ce/6a/88ce6acb33ed68476c8224691b08eb02.jpg"
+    },
+    {
+        "id": "422281207462965",
+        "name_category": "Cat",
+        "title": "Cat",
+        "image": "https://i.pinimg.com/originals/ac/2d/27/ac2d27c18edaa246b77de1050c63f209.jpg"
+    },
+    {
+        "id": "6333255715606929",
+        "name_category": "Cat",
+        "title": "Cat",
+        "image": "https://i.pinimg.com/originals/54/32/6f/54326f6bd61287912dc4bcf2ec5eae43.jpg"
+    },
+    {
+        "id": "486670303494117369",
+        "name_category": "Cat",
+        "title": "Cat",
+        "image": "https://i.pinimg.com/originals/6e/8c/7e/6e8c7e6a33a234f5d099fb64777e7084.jpg"
+    },
+    {
+        "id": "20758848273906957",
+        "name_category": "Cat",
+        "title": "Cat",
+        "image": "https://i.pinimg.com/originals/8a/98/97/8a989722c94814d8db4e82876e547192.jpg"
+    },
+    {
+        "id": "20758848273906957",
+        "name_category": "Cat",
+        "title": "Cat",
+        "image": "https://i.pinimg.com/originals/91/58/94/9158946667f6bc2e1d263eafa6bed18f.jpg"
+    }
+  ]
+}
